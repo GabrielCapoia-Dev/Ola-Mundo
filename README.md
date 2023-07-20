@@ -1,2 +1,2 @@
-# Ola Mundo
- Aprendendo Git e GitHub
+# Olá, Mundo!
+Aprendendo Git e GitHub no Curso em Video com o professor Gustavo Guanabara
